@@ -1,0 +1,7 @@
+Period,Model,Observations,Breach_Count,Breach_Rate_pct
+2008 Financial Crisis,Gaussian,209,28,13.397129186602871
+2008 Financial Crisis,Student-t,209,21,10.047846889952153
+2008 Financial Crisis,GARCH-Student-t,209,4,1.9138755980861244
+2020 COVID Crash,Gaussian,72,16,22.22222222222222
+2020 COVID Crash,Student-t,72,13,18.055555555555554
+2020 COVID Crash,GARCH-Student-t,72,2,2.7777777777777777

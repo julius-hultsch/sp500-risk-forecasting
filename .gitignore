@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyCharm and operating system
+.idea/
+.DS_Store
+
+# Local environment variables and credentials
+.env
+.env.*
+
+# Temporary files
+*.log
